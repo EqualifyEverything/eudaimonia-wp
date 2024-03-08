@@ -1,4 +1,4 @@
-## Project Eudiamonia
+## Project Eudaimonia
 This is the repo for Project Eudaimonia.
 
 Project Eudaimonia is [Equalify](http://equalify.app)'s project to make [WordPress](http://wordpress.org) accessible.
