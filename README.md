@@ -1,23 +1,21 @@
 ## Project Eudaimonia
-This is the repo for Project Eudaimonia.
+Project Eudaimonia is [Equalify](http://equalify.app)'s project to make [WordPress](http://wordpress.org) more accessible for people with disabilities.
 
-Project Eudaimonia is [Equalify](http://equalify.app)'s project to make [WordPress](http://wordpress.org) accessible.
+## Need your WordPress "DotOrg" website Scanned?
+We run automated scans of websites then create useful GitHub tickets of issues we think you should focus on.
 
-The project lead is [@bbertucc](https://github.com/bbertucc).
+To get your website scanned, ping the [accessibilty-testing](https://wordpress.slack.com/archives/CEKKABGJD) channel in the Making WordPress Slack. More info on the Making WordPress Slack is available here: https://make.wordpress.org/contribute/join/
 
-This project isn't _just_ about making the web more accessible to people with disabilities.
-
-Accessibility projects, like [curb cuts](https://en.wikipedia.org/wiki/Curb_cut), make everyone's life better.
-
-Feel free to [create a new issue](https://github.com/EqualifyEverything/eudaimonia-wp/issues/new) with any questions.
-
-## Want to Support?
+## websites.csv
+[websites.csv](https://github.com/EqualifyEverything/eudaimonia-wp/blob/main/websites.csv) is document where we keep track of sites we scan. Any unscanned or priority sites are scanned each time we run our automated web accessibility scans. 
+ 
+## Want to Support Equalify?
 Equalify is a community-led Open Source organization.
-
-**If you want to help out**, let us know what skills you can lend by posting an issue on this repo or by finding the [#accessibility-testing channel](https://wordpress.slack.com/archives/CEKKABGJD) on WordPress's Slack.
 
 **If you're in the market for automated Accessibility**, [contact Equalify](https://equalify.app/#access)!
 
 **If you just want to show support**, star our [platform repo](http://github.com/equalifyEverything/equalify).
+
+You're also welcome to [join Equalify's Slack](https://join.slack.com/t/equalifyapp/shared_invite/zt-1sfbgf0fa-CzIHlbFOs0Ww1iSTK4LQ2w). 
 
 Together, we can equalify the internet.
