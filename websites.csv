@@ -7,7 +7,7 @@ Block Pattern Directory - WordPress.org,https://wordpress.org/patterns,Sitemap I
 WordPress Learning Pathways (TEST),https://learn.wordpress.org/test/learning-pathways/,Single Page Import,TRUE,,https://github.com/WordPress/Learn.git
 WordPress Support Forums,https://wordpress.org/support/forums/,Single Page Import,TRUE,,https://github.com/WordPress/wordpress.org.git
 Blocks - WordPress.org,https://wordpress.org/blocks/,Single Page Import,TRUE,,https://github.com/WordPress/wporg-main-2022.git
-WordPress.org,https://wordpress.org,Sitemap Import,TRUE,4-17-24,https://github.com/WordPress/wporg-main-2022.git
+WordPress.org,https://wordpress.org,Sitemap Import,TRUE,5-29-24,https://github.com/WordPress/wporg-main-2022.git
 WordPress.org Argentina,https://es-ar.wordpress.org,Single Page Import,,4-17-24,
 WordPress.org Aragonese,https://arg.wordpress.org,Single Page Import,,4-17-24,
 WordPress.org Arabic,https://ar.wordpress.org,Single Page Import,,4-17-24,
@@ -182,7 +182,7 @@ Georgian Team - WordPress.org Georgian,https://ka.wordpress.org/team,Single Page
 Georgian Support Forums - WordPress.org Georgian,https://ka.wordpress.org/support,Single Page Import,,4-17-24,
 Galacia Team - WordPress.org Galacia,https://gl.wordpress.org/team,Single Page Import,,4-17-24,
 French (Canada) Team - WordPress.org French (Canada),https://fr-ca.wordpress.org/team,Single Page Import,,4-17-24,
-French (Belgium) Team - WordPress.org French (Belgium) ,https://fr-be.wordpress.org/team,Single Page Import,,4-17-24,
+"French (Belgium) Team - WordPress.org French (Belgium) ",https://fr-be.wordpress.org/team,Single Page Import,,4-17-24,
 Fòrums de suport - WordPress.org Català,https://ca.wordpress.org/support,Single Page Import,,4-17-24,
 Five for the Future,https://wordpress.org/five-for-the-future,Sitemap Import,,4-17-24,https://github.com/WordPress/five-for-the-future/
 Finnish Team - WordPress.org Suomi,https://fi.wordpress.org/team,Single Page Import,,4-17-24,
