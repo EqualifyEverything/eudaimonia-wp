@@ -1,13 +1,13 @@
 Name,URL,Discovery,Priority?,Last Scanned,Repo URL
 WordPress Plugins,https://wordpress.org/plugins,Sitemap Import,TRUE,4-17-24,https://github.com/WordPress/wordpress.org.git
-WordPress Developer Resources,https://developer.wordpress.org,Sitemap Import,TRUE,4-17-24,
-WordPress Developer Blog,https://developer.wordpress.org/news,Sitemap Import,TRUE,4-17-24,
-Documentation - WordPress.org,https://wordpress.org/documentation,Sitemap Import,TRUE,4-17-24,
-Block Pattern Directory - WordPress.org,https://wordpress.org/patterns,Sitemap Import,TRUE,4-17-24,
+WordPress Developer Resources,https://developer.wordpress.org,Sitemap Import,TRUE,4-17-24,https://github.com/WordPress/wporg-developer.git
+WordPress Developer Blog,https://developer.wordpress.org/news,Sitemap Import,TRUE,4-17-24,https://github.com/WordPress/wporg-developer-blog.git
+Documentation - WordPress.org,https://wordpress.org/documentation,Sitemap Import,TRUE,4-17-24,https://github.com/WordPress/wporg-documentation-2022.git
+Block Pattern Directory - WordPress.org,https://wordpress.org/patterns,Sitemap Import,TRUE,4-17-24,https://github.com/WordPress/pattern-directory.git
 WordPress Learning Pathways (TEST),https://learn.wordpress.org/test/learning-pathways/,Single Page Import,TRUE,,https://github.com/WordPress/Learn.git
-WordPress Support Forums,https://wordpress.org/support/forums/,Single Page Import,TRUE,,
-Blocks - WordPress.org,https://wordpress.org/blocks/,Single Page Import,TRUE,,
-WordPress.org,https://wordpress.org,Sitemap Import,TRUE,4-17-24,https://github.com/WordPress/wordpress.org.git
+WordPress Support Forums,https://wordpress.org/support/forums/,Single Page Import,TRUE,,https://github.com/WordPress/wordpress.org.git
+Blocks - WordPress.org,https://wordpress.org/blocks/,Single Page Import,TRUE,,https://github.com/WordPress/wporg-main-2022.git
+WordPress.org,https://wordpress.org,Sitemap Import,TRUE,4-17-24,https://github.com/WordPress/wporg-main-2022.git
 WordPress.org Argentina,https://es-ar.wordpress.org,Single Page Import,,4-17-24,
 WordPress.org Aragonese,https://arg.wordpress.org,Single Page Import,,4-17-24,
 WordPress.org Arabic,https://ar.wordpress.org,Single Page Import,,4-17-24,
@@ -21,24 +21,24 @@ WordPress.org Albanian,https://sq.wordpress.org,Single Page Import,,4-17-24,
 WordPress.org Afrikaans,https://af.wordpress.org,Single Page Import,,4-17-24,
 WordPress.org Afaan Oromoo,https://gax.wordpress.org,Single Page Import,,4-17-24,
 WordPress.org 🌏🌍🌎 (Emoji),https://emoji.wordpress.org,Single Page Import,,4-17-24,
-WordPress.com Apps,https://apps.wordpress.org,Sitemap Import,,4-17-24,
+WordPress.com Apps,https://apps.wordpress.org,Sitemap Import,,4-17-24,- redirects to wp.com apps
 WordPress UK Team P2,https://en-gb.wordpress.org/team,Single Page Import,,4-17-24,
-WordPress Turkish,https://tr.wordpress.org,Single Page Import,,4-17-24,
-WordPress Themes,https://wordpress.org/themes,Sitemap Import,,4-17-24,
-WordPress Swag Stor,https://mercantile.wordpress.org,Single Page Import,,4-17-24,
-WordPress Playground Landing Page,https://wordpress.org/playground,Single Page Import,,4-17-24,
-WordPress Playground Documentation,https://wordpress.github.io/wordpress-playground/,Sitemap Import,,4-17-24,
-WordPress Playground,https://playground.wordpress.net,Single Page Import,,4-17-24,
-WordPress Photo Directory,https://wordpress.org/photos,Sitemap Import,,4-17-24,
-WordPress News,https://wordpress.org/news,Sitemap Import,,4-17-24,
-WordPress Jobs,https://jobs.wordpress.net,Sitemap Import,,4-17-24,
+WordPress Turkish,https://tr.wordpress.org,Single Page Import,,4-17-24,https://github.com/WordPress/wporg-main-2022.git
+WordPress Themes,https://wordpress.org/themes,Sitemap Import,,4-17-24,https://github.com/WordPress/wporg-theme-directory.git
+WordPress Swag Stor,https://mercantile.wordpress.org,Single Page Import,,4-17-24,"- store is currently closed, no plans to reopen"
+WordPress Playground Landing Page,https://wordpress.org/playground,Single Page Import,,4-17-24,https://github.com/WordPress/wporg-wasm
+WordPress Playground Documentation,https://wordpress.github.io/wordpress-playground/,Sitemap Import,,4-17-24,https://github.com/WordPress/wordpress-playground/
+WordPress Playground,https://playground.wordpress.net,Single Page Import,,4-17-24,https://github.com/WordPress/wordpress-playground/
+WordPress Photo Directory,https://wordpress.org/photos,Sitemap Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Photo+Directory
+WordPress News,https://wordpress.org/news,Sitemap Import,,4-17-24,https://github.com/WordPress/wporg-news-2021
+WordPress Jobs,https://jobs.wordpress.net,Sitemap Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Jobs+(jobs.wordpress.net)
 WordPress en French Team,https://fr.wordpress.org/team,Single Page Import,,4-17-24,
 WordPress en French Support,https://fr.wordpress.org/support,Single Page Import,,4-17-24,
-WordPress Contributor Team Updates,https://make.wordpress.org/updates,Sitemap Import,,4-17-24,
-WordPress Community Summit,https://make.wordpress.org/summit,Sitemap Import,,4-17-24,
+WordPress Contributor Team Updates,https://make.wordpress.org/updates,Sitemap Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
+WordPress Community Summit,https://make.wordpress.org/summit,Sitemap Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
 WordPress Chat,https://make.wordpress.org/chat,Sitemap Import,,4-17-24,
-WordPress Book,https://wordpress.org/book,Single Page Import,,4-17-24,
-WordCamp Central,https://central.wordcamp.org,Single Page Import,,4-17-24,
+WordPress Book,https://wordpress.org/book,Single Page Import,,4-17-24,https://github.com/wordPress/wporg-book
+WordCamp Central,https://central.wordcamp.org,Single Page Import,,4-17-24,https://github.com/WordPress/wordcamp.org/
 Wolof Team - WordPress.org Wolof,https://wol.wordpress.org/team,Single Page Import,,4-17-24,
 Welsh Team - WordPress.org Cymraeg,https://cy.wordpress.org/team,Single Page Import,,4-17-24,
 Vietnamese Team -  WordPress.org Vietnamese,https://vi.wordpress.org/team,Single Page Import,,4-17-24,
@@ -55,8 +55,8 @@ Ukranian Support Forums - WordPress.org Ukrainian,https://uk.wordpress.org/suppo
 Ukrainian Team - WordPress.org Ukrainian,https://uk.wordpress.org/team,Single Page Import,,4-17-24,
 Turkish Team - WordPress Turkish,https://tr.wordpress.org/team,Single Page Import,,4-17-24,
 Turkish Azerbaijani Support Forums - WordPress.org Turkish Azerbaijani,https://az-tr.wordpress.org/support,Single Page Import,,4-17-24,
-Translate WordPress,https://make.wordpress.org/polyglots,Sitemap Import,,4-17-24,
-Tide - Automated Tests,https://make.wordpress.org/tide,Sitemap Import,,4-17-24,
+Translate WordPress,https://make.wordpress.org/polyglots,Sitemap Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
+Tide - Automated Tests,https://make.wordpress.org/tide,Sitemap Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
 Tibetan Team - WordPress.org Tibetan,https://bo.wordpress.org/team,Single Page Import,,4-17-24,
 Thai Team - WordPress.org Thai,https://th.wordpress.org/team,Single Page Import,,4-17-24,
 Thai Support Forums - WordPress.org Thai,https://th.wordpress.org/support,Single Page Import,,4-17-24,
@@ -74,7 +74,7 @@ Tagalog Team - WordPress.org Tagalog,https://tl.wordpress.org/team,Single Page I
 Tagalog Support Forums - WordPress.org Tagalog,https://tl.wordpress.org/support,Single Page Import,,4-17-24,
 Swedish Team - WordPress.org Svenska,https://sv.wordpress.org/team,Single Page Import,,4-17-24,
 Swedish Support - WordPress.org Svenska,https://sv.wordpress.org/support,Sitemap Import,,4-17-24,
-Sustainability - WordPress.org,https://make.wordpress.org/sustainability,Single Page Import,,4-17-24,
+Sustainability - WordPress.org,https://make.wordpress.org/sustainability,Single Page Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
 Support Forum - WordPress.org Deutsch,https://de.wordpress.org/support,Single Page Import,,4-17-24,
 Support Forum - WordPress.org Marathi,https://mr.wordpress.org/support,Single Page Import,,4-17-24,
 Support Forum - WordPress.org Japanese,https://ja.wordpress.org/support,Single Page Import,,4-17-24,
@@ -99,7 +99,7 @@ Russian Team - WordPress.org Russian,https://ru.wordpress.org/team,Single Page I
 Russian Support Forums - WordPress.org Russian,https://ru.wordpress.org/support,Single Page Import,,4-17-24,
 Romanian Team - WordPress.org Romanian,https://ro.wordpress.org/team,Single Page Import,,4-17-24,
 Romanian Support - WordPress.org Romanian,https://ro.wordpress.org/support,Single Page Import,,4-17-24,
-REST API Handbook,https://api.wordpress.org,Single Page Import,,4-17-24,
+REST API Handbook,https://api.wordpress.org,Single Page Import,,4-17-24,- redirects to developer.w.org
 Portuguese Team - WordPress.org Portuguese,https://pt.wordpress.org/team,Single Page Import,,4-17-24,
 Portuguese Support - WordPress.org Portuguese,https://pt.wordpress.org/support,Single Page Import,,4-17-24,
 Polish Team - WordPress.org Polska,https://pl.wordpress.org/team,Single Page Import,,4-17-24,
@@ -121,34 +121,34 @@ Moroccan Arabic WordPress Team - WordPress.org Moroccan Arabic,https://ary.wordp
 Moroccan Arabic Support Forums - WordPress.org Moroccan Arabic,https://ary.wordpress.org/support,Single Page Import,,4-17-24,
 Mexico Team - WordPress.org Mexico,https://es-mx.wordpress.org/team,Single Page Import,,4-17-24,
 México Support - WordPress.org Mexico,https://es-mx.wordpress.org/support,Single Page Import,,4-17-24,
-Meta Learn WordPress Handbook,https://learn.wordpress.org/meta,Single Page Import,,4-17-24,
+Meta Learn WordPress Handbook,https://learn.wordpress.org/meta,Single Page Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Handbooks
 Marathi Team - WordPress.org Marathi,https://mr.wordpress.org/team,Single Page Import,,4-17-24,
 Malay Team - WordPress.org Bahasa Melayu,https://ms.wordpress.org/team,Single Page Import,,4-17-24,
-Making WordPress Secure,https://make.wordpress.org/security,Sitemap Import,,4-17-24,
-Make WordPress.tv,https://make.wordpress.org/tv,Sitemap Import,,4-17-24,
-Make WordPress.org Meta,https://make.wordpress.org/meta,Sitemap Import,,4-17-24,
-Make WordPress.org Marketing,https://make.wordpress.org/marketing,Sitemap Import,,4-17-24,
-Make WordPress Training,https://make.wordpress.org/training,Sitemap Import,,4-17-24,
-Make WordPress Themes,https://make.wordpress.org/themes,Sitemap Import,,4-17-24,
-Make WordPress Systems,https://make.wordpress.org/systems,Sitemap Import,,4-17-24,
-Make WordPress Support,https://make.wordpress.org/support,Sitemap Import,,4-17-24,
-Make WordPress Plugins,https://make.wordpress.org/plugins,Sitemap Import,,4-17-24,
-Make WordPress Mobile,https://make.wordpress.org/mobile,Sitemap Import,,4-17-24,
-Make WordPress Hosting,https://make.wordpress.org/hosting,Sitemap Import,,4-17-24,
-Make WordPress Documentation,https://make.wordpress.org/docs,Sitemap Import,,4-17-24,
-Make WordPress Design,https://make.wordpress.org/design,Single Page Import,,4-17-24,
-Make WordPress Core,https://make.wordpress.org/core,Single Page Import,,4-17-24,
-Make WordPress Community,https://make.wordpress.org/community,Single Page Import,,4-17-24,
-Make WordPress Accessible,https://make.wordpress.org/accessibility,Single Page Import,,4-17-24,
-Make Photos,https://make.wordpress.org/photos,Sitemap Import,,4-17-24,
-Make Openverse,https://make.wordpress.org/openverse,Sitemap Import,,4-17-24,
+Making WordPress Secure,https://make.wordpress.org/security,Sitemap Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
+Make WordPress.tv,https://make.wordpress.org/tv,Sitemap Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
+Make WordPress.org Meta,https://make.wordpress.org/meta,Sitemap Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
+Make WordPress.org Marketing,https://make.wordpress.org/marketing,Sitemap Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
+Make WordPress Training,https://make.wordpress.org/training,Sitemap Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
+Make WordPress Themes,https://make.wordpress.org/themes,Sitemap Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
+Make WordPress Systems,https://make.wordpress.org/systems,Sitemap Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
+Make WordPress Support,https://make.wordpress.org/support,Sitemap Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
+Make WordPress Plugins,https://make.wordpress.org/plugins,Sitemap Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
+Make WordPress Mobile,https://make.wordpress.org/mobile,Sitemap Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
+Make WordPress Hosting,https://make.wordpress.org/hosting,Sitemap Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
+Make WordPress Documentation,https://make.wordpress.org/docs,Sitemap Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
+Make WordPress Design,https://make.wordpress.org/design,Single Page Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
+Make WordPress Core,https://make.wordpress.org/core,Single Page Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
+Make WordPress Community,https://make.wordpress.org/community,Single Page Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
+Make WordPress Accessible,https://make.wordpress.org/accessibility,Single Page Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
+Make Photos,https://make.wordpress.org/photos,Sitemap Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
+Make Openverse,https://make.wordpress.org/openverse,Sitemap Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
 Maithili Team - WordPress.org Maithili,https://mai.wordpress.org/team,Single Page Import,,4-17-24,
 Macedonian Support Forums - WordPress.org Macedonian,https://mk.wordpress.org/support,Single Page Import,,4-17-24,
 Lombard team - WordPress.org Lombard,https://lmo.wordpress.org/team,Single Page Import,,4-17-24,
 Locales & GlotPress - WordPress.org,https://translate.wordpress.org,Single Page Import,,4-17-24,
 Lithuanian Team - WordPress.org Lithuanian,https://lt.wordpress.org/team,Single Page Import,,4-17-24,
 Ligurian Team - WordPress.org Ligurian (Genoese),https://lij.wordpress.org/team,Single Page Import,,4-17-24,
-Learn WordPress,https://learn.wordpress.org,Sitemap Import,,4-17-24,
+Learn WordPress,https://learn.wordpress.org,Sitemap Import,,4-17-24,https://github.com/WordPress/Learn/
 Latvian Team - WordPress.org Latvian,https://lv.wordpress.org/team,Single Page Import,,4-17-24,
 Korean Team - WordPress.org Korea,https://ko.wordpress.org/team,Single Page Import,,4-17-24,
 Korean Support - WordPress.org Korean,https://ko.wordpress.org/support,Single Page Import,,4-17-24,
@@ -170,13 +170,13 @@ Hindi Support Forum - WordPress.org Hindi,https://hi.wordpress.org/support,Singl
 Hebrew Team - WordPress.org Hebrew,https://he.wordpress.org/team,Single Page Import,,4-17-24,
 Hebrew Support Forums - WordPress.org Hebrew,https://he.wordpress.org/support,Single Page Import,,4-17-24,
 Hausa Team - WordPress.org Hausa,https://hau.wordpress.org/team,Single Page Import,,4-17-24,
-gutenberg.run,http://gutenberg.run,Single Page Import,,4-17-24,
-Gutenberg WordPress.org Demo,https://wordpress.org/gutenberg/,Single Page Import,,4-17-24,
+gutenberg.run,http://gutenberg.run,Single Page Import,,4-17-24,- redirects to playground
+Gutenberg WordPress.org Demo,https://wordpress.org/gutenberg/,Single Page Import,,4-17-24,https://github.com/WordPress/wporg-gutenberg/
 Gujarati Team - WordPress.org Gujarati,https://gu.wordpress.org/team,Single Page Import,,4-17-24,
 Guatemala Team - WordPress.org Guatemala,https://es-gt.wordpress.org/team,Single Page Import,,4-17-24,
 Greek Team - WordPress.org Ελληνικά,https://el.wordpress.org/team,Single Page Import,,4-17-24,
 Greek Support Forums - WordPress.org Greek,https://el.wordpress.org/support,Sitemap Import,,4-17-24,
-Get Involved - WordPress.org,https://make.wordpress.org,Sitemap Import,,4-17-24,
+Get Involved - WordPress.org,https://make.wordpress.org,Sitemap Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
 German (Switzerland) Team - WordPress.org Deutsch (Schweiz),https://de-ch.wordpress.org/team,Single Page Import,,4-17-24,
 Georgian Team - WordPress.org Georgian,https://ka.wordpress.org/team,Single Page Import,,4-17-24,
 Georgian Support Forums - WordPress.org Georgian,https://ka.wordpress.org/support,Single Page Import,,4-17-24,
@@ -184,7 +184,7 @@ Galacia Team - WordPress.org Galacia,https://gl.wordpress.org/team,Single Page I
 French (Canada) Team - WordPress.org French (Canada),https://fr-ca.wordpress.org/team,Single Page Import,,4-17-24,
 French (Belgium) Team - WordPress.org French (Belgium) ,https://fr-be.wordpress.org/team,Single Page Import,,4-17-24,
 Fòrums de suport - WordPress.org Català,https://ca.wordpress.org/support,Single Page Import,,4-17-24,
-Five for the Future,https://wordpress.org/five-for-the-future,Sitemap Import,,4-17-24,
+Five for the Future,https://wordpress.org/five-for-the-future,Sitemap Import,,4-17-24,https://github.com/WordPress/five-for-the-future/
 Finnish Team - WordPress.org Suomi,https://fi.wordpress.org/team,Single Page Import,,4-17-24,
 Esperanto Team - WordPress.org Esperanto,https://eo.wordpress.org/team,Single Page Import,,4-17-24,
 Esperanto Support - WordPress.org Esperanto,https://eo.wordpress.org/support,Single Page Import,,4-17-24,
@@ -196,16 +196,16 @@ Ecuador Team - WordPress.org Ecuador,https://es-ec.wordpress.org/team,Single Pag
 Dzongkha Support Forums - WordPress.org Dzongkha,https://dzo.wordpress.org/support,Single Page Import,,4-17-24,
 Dominican Team - WordPress.org Dominican,https://es-do.wordpress.org/team,Single Page Import,,4-17-24,
 Dolnoserbšćina Team - WordPress.org Dolnoserbšćina,https://dsb.wordpress.org/team,Single Page Import,,4-17-24,
-do_action: Using WordPress for good,https://doaction.org,Sitemap Import,,4-17-24,
+do_action: Using WordPress for good,https://doaction.org,Sitemap Import,,4-17-24,https://github.com/WordPress/doaction.org
 Danske Team - Det danske WordPress fællesskab,https://da.wordpress.org/team,Single Page Import,,4-17-24,
 Danish Support Forums - WordPress.org Dansk,https://da.wordpress.org/support,Sitemap Import,,4-17-24,
 Czech Support Forums - WordPress.org Česko,https://cs.wordpress.org/support,Single Page Import,,4-17-24,
 Croation Forums - WordPress.org Hrvatski,https://hr.wordpress.org/support,Single Page Import,,4-17-24,
 Croatian Team - WordPress.org Hrvatski,https://hr.wordpress.org/team,Single Page Import,,4-17-24,
 Corsican Support Forums - WordPress.org Corsu,https://co.wordpress.org/support,Single Page Import,,4-17-24,
-Core Performance,https://make.wordpress.org/performance,Single Page Import,,4-17-24,
-Core Contributor Handbook,https://make.wordpress.org/core/handbook,Single Page Import,,4-17-24,
-Contributing to WordPress,https://wordpress.org/contributor-training,Sitemap Import,,4-17-24,
+Core Performance,https://make.wordpress.org/performance,Single Page Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Make+(Get+Involved)+%2F+P2
+Core Contributor Handbook,https://make.wordpress.org/core/handbook,Single Page Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Handbooks
+Contributing to WordPress,https://wordpress.org/contributor-training,Sitemap Import,,4-17-24,- redirects to learn
 Chinese (Taiwan) Team - WordPress.org Taiwan,https://tw.wordpress.org/team,Single Page Import,,4-17-24,
 Chinese (Hong Kong) Team -  WordPress.org Hong Kong,https://zh-hk.wordpress.org/team,Single Page Import,,4-17-24,
 Chinese (Hong Kong) Support Forums - WordPress.org Hong Kong,https://zh-hk.wordpress.org/support,Single Page Import,,4-17-24,
@@ -218,7 +218,7 @@ Català Team - WordPress.org Català,https://ca.wordpress.org/team,Single Page I
 Català (Valencià) Team - WordPress.org Català (Valencià),https://ca-valencia.wordpress.org/team,Single Page Import,,4-17-24,
 Bulgaria Team - WordPress Bulgarian,https://bg.wordpress.org/team,Single Page Import,,4-17-24,
 Bulgaria Support Forums - WordPress.org Bulgarian,https://bg.wordpress.org/support,Single Page Import,,4-17-24,
-Browse Happy,https://browsehappy.com,Single Page Import,,4-17-24,
+Browse Happy,https://browsehappy.com,Single Page Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Browse%20Happy
 Breton Support Forums - WordPress.org Brezhoneg,https://bre.wordpress.org/support,Single Page Import,,4-17-24,
 Brazil Team - WordPress.org Brazil,https://br.wordpress.org/team,Single Page Import,,4-17-24,
 Brazil SUpport - WordPress.org Brazil,https://br.wordpress.org/support,Single Page Import,,4-17-24,
