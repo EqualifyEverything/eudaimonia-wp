@@ -36,3 +36,28 @@ WHERE n.node_url_id = 16970 AND n.node_equalified = 0
 GROUP BY m.message_id, m.message, m.message_type
 ORDER BY related_nodes_count DESC
 ```
+
+## Get Message, Node Count, Message Type and Example URL related to a Property
+```
+SELECT 
+    m.message_id,
+    m.message,
+    m.message_type,
+    COUNT(n.node_id) AS node_count,
+    MIN(u.url) AS example_url
+FROM 
+    messages m
+JOIN 
+    message_nodes mn ON m.message_id = mn.message_id
+JOIN 
+    nodes n ON mn.node_id = n.node_id
+JOIN 
+    urls u ON n.node_url_id = u.url_id
+JOIN 
+    properties p ON u.url_property_id = p.property_id
+WHERE 
+    p.property_id = 215
+    AND n.node_equalified = 0
+GROUP BY 
+    m.message_id, m.message, m.message_type
+```
