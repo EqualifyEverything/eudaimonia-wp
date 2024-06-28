@@ -4,7 +4,7 @@ Project Eudaimonia is [Equalify](http://equalify.app)'s project to make [WordPre
 ## Need your WordPress "DotOrg" website Scanned?
 We run automated scans of websites and then create useful GitHub tickets of issues you should focus on.
 
-To get your website scanned, create a Pull Request to update [websites.csv](https://github.com/EqualifyEverything/eudaimonia-wp/blob/main/websites.csv. You can also ping the [accessibilty-testing](https://wordpress.slack.com/archives/CEKKABGJD) channel in the Making WordPress Slack. More info on the Making WordPress Slack is available here: https://make.wordpress.org/contribute/join/
+To get your website scanned, create a Pull Request to update [websites.csv](https://github.com/EqualifyEverything/eudaimonia-wp/blob/main/websites.csv). You can also ping the [accessibilty-testing](https://wordpress.slack.com/archives/CEKKABGJD) channel in the Making WordPress Slack. More info on the Making WordPress Slack is available here: https://make.wordpress.org/contribute/join/
 
 ## Repo Contents
 Here's an overview of the documents in this repo:
