@@ -11,6 +11,7 @@ Here's an overview of the documents in this repo:
 - **[websites.csv](https://github.com/EqualifyEverything/eudaimonia-wp/blob/main/websites.csv)** is where we keep track of sites we scan. Any unscanned or priority sites are scanned each time we run our automated web accessibility scans.
 - **[equalify_db.sql.gz](https://github.com/EqualifyEverything/eudaimonia-wp/blob/main/equalify_db.sql.gz)** contains the latest output of data related to scans.
 - **[REPORTING.md](https://github.com/EqualifyEverything/eudaimonia-wp/blob/main/REPORTING.md)** contains commonly used MySQL queries to parse the equalify data.
+- **[TICKETING.md](https://github.com/EqualifyEverything/eudaimonia-wp/blob/main/TICKETING.md)** contains information about how we generate tickets.
 
 ## Want to Support Equalify?
 Equalify is a community-led Open Source organization.
