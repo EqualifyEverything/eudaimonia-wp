@@ -8,6 +8,7 @@ WordPress Learning Pathways (TEST),https://learn.wordpress.org/test/learning-pat
 WordPress Support Forums,https://wordpress.org/support/forums/,Single Page Import,TRUE,5-31-24,https://github.com/WordPress/wordpress.org.git
 Blocks - WordPress.org,https://wordpress.org/blocks/,Single Page Import,TRUE,5-31-24,https://github.com/WordPress/wporg-main-2022.git
 WordPress.org,https://wordpress.org,Sitemap Import,TRUE,5-29-24,https://github.com/WordPress/wporg-main-2022.git
+WordPress News,https://wordpress.org/news,Sitemap Import,TRUE,4-17-24,https://github.com/WordPress/wporg-news-2021
 WordPress.org Argentina,https://es-ar.wordpress.org,Single Page Import,,4-17-24,
 WordPress.org Aragonese,https://arg.wordpress.org,Single Page Import,,4-17-24,
 WordPress.org Arabic,https://ar.wordpress.org,Single Page Import,,4-17-24,
@@ -30,7 +31,6 @@ WordPress Playground Landing Page,https://wordpress.org/playground,Single Page I
 WordPress Playground Documentation,https://wordpress.github.io/wordpress-playground/,Sitemap Import,,4-17-24,https://github.com/WordPress/wordpress-playground/
 WordPress Playground,https://playground.wordpress.net,Single Page Import,,4-17-24,https://github.com/WordPress/wordpress-playground/
 WordPress Photo Directory,https://wordpress.org/photos,Sitemap Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Photo+Directory
-WordPress News,https://wordpress.org/news,Sitemap Import,,4-17-24,https://github.com/WordPress/wporg-news-2021
 WordPress Jobs,https://jobs.wordpress.net,Sitemap Import,,4-17-24,https://meta.trac.wordpress.org/query?status=!closed&component=Jobs+(jobs.wordpress.net)
 WordPress en French Team,https://fr.wordpress.org/team,Single Page Import,,4-17-24,
 WordPress en French Support,https://fr.wordpress.org/support,Single Page Import,,4-17-24,
