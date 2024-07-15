@@ -77,3 +77,25 @@ JOIN urls u ON n.node_url_id = u.url_id
 JOIN message_nodes mn ON n.node_id = mn.node_id
 WHERE u.url_id = ? AND mn.message_id = ?;
 ```
+
+## Output Nodes related to various property ids and message ids
+```SQL
+SELECT
+    n.node_id,
+    n.node_html,
+    m.message,
+    u.url
+FROM
+    nodes n
+JOIN
+    urls u ON n.node_url_id = u.url_id
+JOIN
+    properties p ON u.url_property_id = p.property_id
+JOIN
+    message_nodes mn ON n.node_id = mn.node_id
+JOIN
+    messages m ON mn.message_id = m.message_id
+WHERE
+    p.property_id IN (/* Add property_ids here */)
+    AND m.message_id IN (/* Add message_ids here */);
+```
