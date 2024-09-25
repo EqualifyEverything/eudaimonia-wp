@@ -1,4 +1,5 @@
 Name,URL,Discovery,Priority?,Last Scanned,Repo URL
+Five for the Future,https://wordpress.org/five-for-the-future,Sitemap Import,TRUE,9-25-24,https://github.com/WordPress/five-for-the-future/
 WordPress Plugins,https://wordpress.org/plugins,Sitemap Import,TRUE,5-29-24,https://github.com/WordPress/wordpress.org.git
 WordPress Developer Resources,https://developer.wordpress.org,Sitemap Import,TRUE,5-31-24,https://github.com/WordPress/wporg-developer.git
 WordPress Developer Blog,https://developer.wordpress.org/news,Sitemap Import,TRUE,5-31-24,https://github.com/WordPress/wporg-developer-blog.git
@@ -184,7 +185,6 @@ Galacia Team - WordPress.org Galacia,https://gl.wordpress.org/team,Single Page I
 French (Canada) Team - WordPress.org French (Canada),https://fr-ca.wordpress.org/team,Single Page Import,,4-17-24,
 "French (Belgium) Team - WordPress.org French (Belgium) ",https://fr-be.wordpress.org/team,Single Page Import,,4-17-24,
 Fòrums de suport - WordPress.org Català,https://ca.wordpress.org/support,Single Page Import,,4-17-24,
-Five for the Future,https://wordpress.org/five-for-the-future,Sitemap Import,,4-17-24,https://github.com/WordPress/five-for-the-future/
 Finnish Team - WordPress.org Suomi,https://fi.wordpress.org/team,Single Page Import,,4-17-24,
 Esperanto Team - WordPress.org Esperanto,https://eo.wordpress.org/team,Single Page Import,,4-17-24,
 Esperanto Support - WordPress.org Esperanto,https://eo.wordpress.org/support,Single Page Import,,4-17-24,
